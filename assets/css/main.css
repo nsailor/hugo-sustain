@@ -18,7 +18,12 @@ html, body {
 }
 
 #about {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
+}
+
+#about h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
 }
 
 .navbar .navbar-brand,
